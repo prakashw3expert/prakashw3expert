@@ -23,29 +23,27 @@
 ### I'm delighted to see you here!  
 I’m a full-stack developer. Being a full-stack allows me to not only develop client-facing apps and websites but also develop them with cutting-edge backend support.
 
-I specialise in creating mobile apps and building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronised and beautiful yet effective. Solid understanding of automated build distribution (CI/CD) for web and mobile apps.
+I specialise in creating mobile apps and building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronised and beautiful yet effective. Solid understanding of automated build distribution (CI/CD) for web and mobile apps.<br/>
 
-Skills & Technologies:
+Skills & Technologies:<br/><br/>
+✅ React JS / React Native / Node JS Development / Loopback<br/>
+✅ Object-c / Swift<br/>
+✅ MongoDB / Postgress SQL / Graph DB / MySQL<br/>
+✅ JIRA / Slack / Trello / Github / Altasian<br/><br/>
 
-✅ React JS / React Native / Node JS Development / Loopback
-✅ Object-c / Swift
-✅ MongoDB / Postgress SQL / Graph DB / MySQL
-✅ JIRA / Slack / Trello / Github / Altasian
+Technologies Stack <br/><br/>
+✅ AWS: S3, EC2, RDS, Lambda, ElasticSearch, API Gateway, Elastic Beanstalk, EC2 Container Service, SQS<br/>
+✅ Application: Node.js, React, React Native, redux Socket IO, Rest, GraphQL<br/>
+✅ DevOps: Github, Docker<br/>
+✅ Documentation: Swagger, Confluence, Google Docs<br/>
+✅ External: Google and Microsoft login and drive integration<br/>
+✅ Project Management: Agile on Jira<br/><br/>
 
-Technologies Stack
+I might be a good match if you are:<br/><br/>
+✅ A startup with a good idea, in search of an ambitious and reliable developer.<br/>
+✅ A company owner looking to grow your business and attract new customers in the emerging market of mobile applications.<br/>
+✅ A team searching for a dedicated long-term developer who knows the value of achieving daily commitments, giving responsive feedback, and meeting deadlines.<br/>
 
-✅ AWS: S3, EC2, RDS, Lambda, ElasticSearch, API Gateway, Elastic Beanstalk, EC2 Container Service, SQS
-✅ Application: Node.js, React, React Native, redux Socket IO, Rest, GraphQL
-✅ DevOps: Github, Docker
-✅ Documentation: Swagger, Confluence, Google Docs
-✅ External: Google and Microsoft login and drive integration
-✅ Project Management: Agile on Jira
-
-I might be a good match if you are:
-
-✅ A startup with a good idea, in search of an ambitious and reliable developer
-✅ A company owner looking to grow your business and attract new customers in the emerging market of mobile applications
-✅ A team searching for a dedicated long-term developer who knows the value of achieving daily commitments, giving responsive feedback, and meeting deadlines
 
 I also assist startups in forming clever creative teams. Happy Coding! 😊  
   
