@@ -20,9 +20,9 @@ I’m a full-stack developer. Being a full-stack allows me to not only develop c
 I specialise in creating mobile apps and building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronised and beautiful yet effective. Solid understanding of automated build distribution (CI/CD) for web and mobile apps.<br/>
 
 Skills & Technologies:<br/><br/>
-✅ React JS / React Native / Node JS Development / Loopback<br/>
+✅ React JS / React Native / Node JS Development / Laravel / Express / Next.js <br/>
 ✅ Object-c / Swift<br/>
-✅ MongoDB / Postgress SQL / Graph DB / MySQL<br/>
+✅ MongoDB / Postgress SQL / Graph DB / MySQL / MariaDB<br/>
 ✅ JIRA / Slack / Trello / Github / Altasian<br/><br/>
 
 Technologies Stack <br/><br/>
